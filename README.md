@@ -49,6 +49,4 @@ This project develops a **low-cost AI-powered fungal detection system** to ident
 - ResNet-50 for classification  
 - OpenCV for preprocessing & visualization  
 
----
 
-### 📂 Repository Structure
