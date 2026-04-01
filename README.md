@@ -4,11 +4,13 @@
 This project develops a **low-cost AI-powered fungal detection system** to identify mold in post-harvest stored grains. Instead of relying on expensive equipment like hyperspectral imaging, the system leverages **deep learning models** and **affordable imaging devices**.
 
 ### 🔧 Tech Stack
-- Python, TensorFlow/PyTorch  
-- YOLO for object detection  
-- ResNet-50 for classification  
-- OpenCV for preprocessing & visualization 
-
+- Python – Core programming for data analysis
+- Pandas & NumPy – Data cleaning, transformation, and statistical analysis
+- Matplotlib & Seaborn – Data visualization and exploratory data analysis (EDA)
+- OpenCV – Image preprocessing and feature extraction
+- Scikit-learn – Basic machine learning models (ResNet-50 & YOLO) & evaluation metrics
+- Jupyter Notebook – Interactive data exploration and reporting.
+  
 ## 🛠️ Methods
 - **Data Collection:**  
   - Captured fungal contamination images using a **Vivo V29 Pro (50MP Sony IMX663 sensor)** with a **200x smartphone microscope lens**.  
